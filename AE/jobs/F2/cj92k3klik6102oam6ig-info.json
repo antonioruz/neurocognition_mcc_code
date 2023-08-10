@@ -1,0 +1,62 @@
+{
+  "id": "cj92k3klik6102oam6ig",
+  "hub": "ibm-q",
+  "group": "open",
+  "project": "main",
+  "backend": "ibmq_belem",
+  "state": {
+    "status": "Completed"
+  },
+  "params": {
+    "meas_level": 2,
+    "ibmqx_token": "39edfd377be2b4f09f7efbab5d75b13037713b774bb2b3bfdb33b01b3ca5d42a31de117616c77f3466c086b3ff6737827cfd7b0d80fbf91f816a370bef9008ed",
+    "init_qubits": true,
+    "meas_return": "avg",
+    "skip_transpilation": true,
+    "shots": 20000,
+    "memory": true,
+    "circuits": [
+      {
+        "__type__": "QuantumCircuit",
+        "__value__": "eJwL9Az29gxhZRBjZoAAxkIG1kwGDiCLFYhZoKIgmgnKFknOLEo2gHIY8kpzcgoZwcoZgXpRASOUhmmFWcKSzAg2lJExmUgdDAxsUFlGBuwgKMo9sSQV7II0qBCHhK5LyG9FzgNgzcjGo4PgCLhmsixSmSwwZ7fbf3saWcRIiY8YybKIDB+RYhETJT5iIssiMnxEikXMlPiImSyLyPARMwM7klps6n1TE4tLiyBJFJI7SdABzs+MpOhgAulgIkUHczLYHwwABjlegg=="
+      }
+    ]
+  },
+  "program": {
+    "id": "circuit-runner"
+  },
+  "created": "2023-08-08T11:42:06.142197Z",
+  "cost": 14400,
+  "remote_storage": {
+    "type": "",
+    "region": "",
+    "region_type": "",
+    "bucket_crn": "",
+    "object_name": "",
+    "job_params": {
+      "type": "",
+      "region": "",
+      "region_type": "",
+      "bucket_crn": "",
+      "object_name": ""
+    },
+    "results": {
+      "type": "",
+      "region": "",
+      "region_type": "",
+      "bucket_crn": "",
+      "object_name": ""
+    },
+    "logs": {
+      "type": "",
+      "region": "",
+      "region_type": "",
+      "bucket_crn": "",
+      "object_name": ""
+    },
+    "transpiled_circuits": null
+  },
+  "estimated_running_time_seconds": 1.8787427128914431,
+  "estimated_max_running_time_seconds": 28.181140693371646,
+  "status": "Completed"
+}
