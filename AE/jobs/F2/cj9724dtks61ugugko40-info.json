@@ -1,0 +1,62 @@
+{
+  "id": "cj9724dtks61ugugko40",
+  "hub": "ibm-q",
+  "group": "open",
+  "project": "main",
+  "backend": "ibmq_belem",
+  "state": {
+    "status": "Completed"
+  },
+  "params": {
+    "skip_transpilation": true,
+    "shots": 20000,
+    "memory": true,
+    "circuits": [
+      {
+        "__type__": "QuantumCircuit",
+        "__value__": "eJwL9Az29gxhZRBjZoAAxkIG1jQGDiCLFYhZoKIgmgnK5kjOLEo2cBC6WVNvrHgprzQnp5ARrJwRqBcVMEJpmFaYJSzJjGBDGRmTidTBwMAGlWVkwA6CotwTS1LBLkiDuVRC1yXktyLnAbBmZOPRQXAEXDNZFn2L7nI07WF2IMkidiS12NT7piYWlxZBFCeTqgMcsoyk6GAC6WAiRQczSAcwhgAVXCup"
+      }
+    ],
+    "meas_level": 2,
+    "ibmqx_token": "39edfd377be2b4f09f7efbab5d75b13037713b774bb2b3bfdb33b01b3ca5d42a31de117616c77f3466c086b3ff6737827cfd7b0d80fbf91f816a370bef9008ed",
+    "init_qubits": true,
+    "meas_return": "avg"
+  },
+  "program": {
+    "id": "circuit-runner"
+  },
+  "created": "2023-08-08T16:45:05.49221Z",
+  "cost": 14400,
+  "remote_storage": {
+    "type": "",
+    "region": "",
+    "region_type": "",
+    "bucket_crn": "",
+    "object_name": "",
+    "job_params": {
+      "type": "",
+      "region": "",
+      "region_type": "",
+      "bucket_crn": "",
+      "object_name": ""
+    },
+    "results": {
+      "type": "",
+      "region": "",
+      "region_type": "",
+      "bucket_crn": "",
+      "object_name": ""
+    },
+    "logs": {
+      "type": "",
+      "region": "",
+      "region_type": "",
+      "bucket_crn": "",
+      "object_name": ""
+    },
+    "transpiled_circuits": null
+  },
+  "estimated_running_time_seconds": 2.102912487279641,
+  "estimated_max_running_time_seconds": 31.543687309194613,
+  "status": "Completed"
+}
