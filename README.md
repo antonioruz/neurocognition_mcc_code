@@ -34,3 +34,4 @@ También contiene las siguientes carpetas, en las que los achivos ".txt" contien
 ### QML
 
 - MODELO_QCNN_EEGS_ARMONICOS_ESFERICOS.ipynb - código de la clasificación de los datos de expansiones en armónicos esféricos de EEG mediante QML.
+- Datos de EGGs obtenidos de https://www.kaggle.com/datasets/brianleung2020/eeg-motor-movementimagery-dataset
